@@ -1,3 +1,12 @@
 <template>
-    <div>111</div>
+    <div>{{ test }}</div>
 </template>
+<script>
+export default {
+    data(){
+        return {
+            msg: 'test'
+        }
+    }
+}
+</script>
