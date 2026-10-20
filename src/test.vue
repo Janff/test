@@ -7,7 +7,7 @@ export default {
     data(){
         return {
             msg: 'test',
-            haha: 'This is haha'
+            haha: 'This is haha11'
         }
     }
 }
