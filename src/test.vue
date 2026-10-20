@@ -1,11 +1,12 @@
 <template>
-    <div>{{ test }}</div>
+    <div>{{ ss }}</div>
 </template>
 <script>
 export default {
     data(){
         return {
-            msg: 'test'
+            msg: 'test',
+            ss: Date.now()
         }
     }
 }
